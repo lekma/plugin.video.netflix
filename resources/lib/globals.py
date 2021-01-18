@@ -146,7 +146,7 @@ class GlobalVariables(object):
                            'loco_contexts': None,
                            'loco_known': False,
                            'request_context_name': 'genres',  # Used for sub-menus
-                           'label_id': 30174,
+                           'label_id': 30095,
                            'description_id': None,
                            'icon': 'DefaultTVShows.png',
                            'has_sort_setting': True}),
@@ -154,7 +154,7 @@ class GlobalVariables(object):
                           'loco_contexts': None,
                           'loco_known': False,
                           'request_context_name': 'genres',  # Used for sub-menus
-                          'label_id': 30175,
+                          'label_id': 30096,
                           'description_id': None,
                           'icon': 'DefaultMovies.png',
                           'content_type': CONTENT_MOVIE,
@@ -163,7 +163,7 @@ class GlobalVariables(object):
                      'loco_contexts': None,
                      'loco_known': False,
                      'request_context_name': 'genres',  # Used for sub-menus
-                     'label_id': 30095,
+                     'label_id': 30174,
                      'description_id': None,
                      'icon': 'DefaultTVShows.png',
                      'has_sort_setting': True}),
@@ -171,7 +171,7 @@ class GlobalVariables(object):
                     'loco_contexts': None,
                     'loco_known': False,
                     'request_context_name': 'genres',  # Used for sub-menus
-                    'label_id': 30096,
+                    'label_id': 30175,
                     'description_id': None,
                     'icon': 'DefaultMovies.png',
                     'content_type': CONTENT_MOVIE,
